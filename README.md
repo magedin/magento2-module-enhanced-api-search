@@ -1,5 +1,5 @@
 # Enhanced API Search for Magento 2
-This module introduces a new way to search in Magento 2 API. Rather than using a querystring, use the body with the JSON format.
+This module introduces a new way to search in Magento 2 API. Rather than using a querystring, use the body with the JSON format for creating your `searchCriteria` parameters.
 
 ![Magento 2 Coding Standard](https://github.com/magedin/magento2-module-enhanced-api-search/workflows/Magento%202%20Coding%20Standard/badge.svg)
 
@@ -51,7 +51,12 @@ Simple, right?
 
 Yes, I understand this may be a kinda weird, bring some confusion to our heads or even issues with cache systems, for instance, but the module is really simple to not be done. If it fits your needs, feel free to use it without costs.
 
-But if you are very strict with the rules, you don't need to use it.
+But if you are very strict with the rules, you don't need to use it.\
 Reference: https://www.rfc-editor.org/rfc/rfc2616
 
-<img width="200" src="https://github.com/magedin/assets/blob/master/images/logo/magedin.svg" alt="MagedIn Technology" />
+---
+
+<div align="center">
+    <small>Proudly developed and maintained by</small></br></br>
+    <img width="200" align="center" src="https://github.com/magedin/assets/blob/master/images/logo/magedin.svg" alt="MagedIn Technology" />
+</div>
