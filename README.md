@@ -54,4 +54,5 @@ Yes, I understand this may be a kinda weird, bring some confusion to our heads o
 But if you are very strict with the rules, you don't need to use it.
 Reference: https://www.rfc-editor.org/rfc/rfc2616
 
+<img width="200" src="https://github.com/magedin/assets/blob/master/images/logo/magedin.svg" alt="MagedIn Technology" />
 ![MagedIn Technology](https://github.com/magedin/assets/blob/master/images/logo/magedin.svg "MagedIn Technology")
