@@ -4,7 +4,8 @@
     "description": "Enhances to Magento 2 API Search",
     "type": "magento2-module",
     "require": {
-        "magento/framework": "*"
+        "magento/framework": "*",
+        "magento/module-webapi": "*"
     },
     "license": [
         "proprietary"
